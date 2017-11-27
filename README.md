@@ -4,7 +4,8 @@
 # THANKS FOR YOUR INTEREST!
 
 A Little Legal Handbook for Data and Computer Scientists
-     Why do this Little Legal Handbook?
+    
+    Why do this Little Legal Handbook?
 
 At its very heart, the Law provides written coded instructions for human compiling and implementing for what is deemed as innately fair by our human moral compass – our sense of sense of “justice” for settling any conflict or harm that threatens our daily happiness.  Societies in the past would use caveman clubs and royal sepulchers but today we use gavels in courtrooms to settle tensions ranging from business fraud to targeted drone strikes.  
 
