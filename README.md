@@ -22,6 +22,5 @@ The Mini Handbook is organized in three primary sections that all highlight a fe
 And remember - good data comes from good people.
 
 Rafael Victor Baca, Esquire, M.S. Data Science
-
 ©2017 – San Francisco, California.  All rights reserved.
  
