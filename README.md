@@ -1,6 +1,6 @@
-# LEGAL_HANDBOOK
-# Please help yourself to a PDF Copy included with this repo.
-# I would greatly appreaciate a star, fork, and any feedback that you may have.
+# LEGAL_HANDBOOK: A Little Legal Handbook for Data and Computer Scientists
+# Please help yourself to a PDF Copy of this Handbook included with this repo.
+# I would greatly appreciate a star, fork, and any feedback that you may have.
 # THANKS FOR YOUR INTEREST!
 
 A Little Legal Handbook for Data and Computer Scientists
